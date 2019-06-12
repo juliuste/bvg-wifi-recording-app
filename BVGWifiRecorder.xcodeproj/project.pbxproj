@@ -7,21 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C634EC7722A6355F0007CD26 /* stations.json in Resources */ = {isa = PBXBuildFile; fileRef = C634EC7622A6355F0007CD26 /* stations.json */; };
+		C653212F22B1A01B005B2859 /* Library.swift in Sources */ = {isa = PBXBuildFile; fileRef = C653212E22B1A01B005B2859 /* Library.swift */; };
+		C653213122B1A296005B2859 /* UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = C653213022B1A296005B2859 /* UI.swift */; };
+		C653213322B1B0F1005B2859 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = C653213222B1B0F1005B2859 /* Config.swift */; };
 		C6626B8B22A60FE2009BDC58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6626B8A22A60FE2009BDC58 /* AppDelegate.swift */; };
 		C6626B8D22A60FE2009BDC58 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6626B8C22A60FE2009BDC58 /* ViewController.swift */; };
-		C6626B9022A60FE2009BDC58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6626B8E22A60FE2009BDC58 /* Main.storyboard */; };
 		C6626B9222A60FE3009BDC58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6626B9122A60FE3009BDC58 /* Assets.xcassets */; };
-		C6626B9522A60FE3009BDC58 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6626B9322A60FE3009BDC58 /* LaunchScreen.storyboard */; };
+		C6744D0622A6D38F009C3D9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6744D0522A6D38F009C3D9D /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C634EC7622A6355F0007CD26 /* stations.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = stations.json; sourceTree = "<group>"; };
+		C634EC7822A63FF80007CD26 /* BVGWifiRecorder.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BVGWifiRecorder.entitlements; sourceTree = "<group>"; };
+		C653212E22B1A01B005B2859 /* Library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Library.swift; sourceTree = "<group>"; };
+		C653213022B1A296005B2859 /* UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UI.swift; sourceTree = "<group>"; };
+		C653213222B1B0F1005B2859 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 		C6626B8722A60FE2009BDC58 /* BVGWifiRecorder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BVGWifiRecorder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6626B8A22A60FE2009BDC58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C6626B8C22A60FE2009BDC58 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C6626B8F22A60FE2009BDC58 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C6626B9122A60FE3009BDC58 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C6626B9422A60FE3009BDC58 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6626B9622A60FE3009BDC58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6744D0522A6D38F009C3D9D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +61,16 @@
 		C6626B8922A60FE2009BDC58 /* BVGWifiRecorder */ = {
 			isa = PBXGroup;
 			children = (
+				C634EC7822A63FF80007CD26 /* BVGWifiRecorder.entitlements */,
 				C6626B8A22A60FE2009BDC58 /* AppDelegate.swift */,
 				C6626B8C22A60FE2009BDC58 /* ViewController.swift */,
-				C6626B8E22A60FE2009BDC58 /* Main.storyboard */,
 				C6626B9122A60FE3009BDC58 /* Assets.xcassets */,
-				C6626B9322A60FE3009BDC58 /* LaunchScreen.storyboard */,
 				C6626B9622A60FE3009BDC58 /* Info.plist */,
+				C634EC7622A6355F0007CD26 /* stations.json */,
+				C6744D0522A6D38F009C3D9D /* LaunchScreen.storyboard */,
+				C653212E22B1A01B005B2859 /* Library.swift */,
+				C653213022B1A296005B2859 /* UI.swift */,
+				C653213222B1B0F1005B2859 /* Config.swift */,
 			);
 			path = BVGWifiRecorder;
 			sourceTree = "<group>";
@@ -96,6 +107,11 @@
 				TargetAttributes = {
 					C6626B8622A60FE2009BDC58 = {
 						CreatedOnToolsVersion = 10.2.1;
+						SystemCapabilities = {
+							com.apple.AccessWiFi = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -122,9 +138,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6626B9522A60FE3009BDC58 /* LaunchScreen.storyboard in Resources */,
+				C6744D0622A6D38F009C3D9D /* LaunchScreen.storyboard in Resources */,
+				C634EC7722A6355F0007CD26 /* stations.json in Resources */,
 				C6626B9222A60FE3009BDC58 /* Assets.xcassets in Resources */,
-				C6626B9022A60FE2009BDC58 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,30 +152,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				C6626B8D22A60FE2009BDC58 /* ViewController.swift in Sources */,
+				C653213122B1A296005B2859 /* UI.swift in Sources */,
+				C653213322B1B0F1005B2859 /* Config.swift in Sources */,
 				C6626B8B22A60FE2009BDC58 /* AppDelegate.swift in Sources */,
+				C653212F22B1A01B005B2859 /* Library.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		C6626B8E22A60FE2009BDC58 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C6626B8F22A60FE2009BDC58 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		C6626B9322A60FE3009BDC58 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C6626B9422A60FE3009BDC58 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		C6626B9722A60FE3009BDC58 /* Debug */ = {
@@ -282,6 +282,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = BVGWifiRecorder/BVGWifiRecorder.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Y9MH8Q5742;
 				INFOPLIST_FILE = BVGWifiRecorder/Info.plist;
@@ -292,7 +293,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = eu.juliustens.BVGWifiRecorder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -300,6 +301,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = BVGWifiRecorder/BVGWifiRecorder.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Y9MH8Q5742;
 				INFOPLIST_FILE = BVGWifiRecorder/Info.plist;
@@ -310,7 +312,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = eu.juliustens.BVGWifiRecorder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

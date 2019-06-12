@@ -1,0 +1,3172 @@
+[
+    {
+        "line": "U1",
+        "id": "900000023301",
+        "name": "Uhlandstraße",
+        "neighbors": [
+            {
+                "id": "900000023203",
+                "name": "Kurfürstendamm"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000023203",
+        "name": "Kurfürstendamm",
+        "neighbors": [
+            {
+                "id": "900000023301",
+                "name": "Uhlandstraße"
+            },
+            {
+                "id": "900000056101",
+                "name": "Wittenbergplatz"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000056101",
+        "name": "Wittenbergplatz",
+        "neighbors": [
+            {
+                "id": "900000023203",
+                "name": "Kurfürstendamm"
+            },
+            {
+                "id": "900000056102",
+                "name": "Nollendorfplatz"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000056102",
+        "name": "Nollendorfplatz",
+        "neighbors": [
+            {
+                "id": "900000056101",
+                "name": "Wittenbergplatz"
+            },
+            {
+                "id": "900000005201",
+                "name": "Kurfürstenstraße"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000005201",
+        "name": "Kurfürstenstraße",
+        "neighbors": [
+            {
+                "id": "900000056102",
+                "name": "Nollendorfplatz"
+            },
+            {
+                "id": "900000017103",
+                "name": "Gleisdreieck"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000017103",
+        "name": "Gleisdreieck",
+        "neighbors": [
+            {
+                "id": "900000005201",
+                "name": "Kurfürstenstraße"
+            },
+            {
+                "id": "900000017104",
+                "name": "Möckernbrücke"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000017104",
+        "name": "Möckernbrücke",
+        "neighbors": [
+            {
+                "id": "900000017103",
+                "name": "Gleisdreieck"
+            },
+            {
+                "id": "900000012103",
+                "name": "Hallesches Tor"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000012103",
+        "name": "Hallesches Tor",
+        "neighbors": [
+            {
+                "id": "900000017104",
+                "name": "Möckernbrücke"
+            },
+            {
+                "id": "900000013103",
+                "name": "Prinzenstraße"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000013103",
+        "name": "Prinzenstraße",
+        "neighbors": [
+            {
+                "id": "900000012103",
+                "name": "Hallesches Tor"
+            },
+            {
+                "id": "900000013102",
+                "name": "Kottbusser Tor"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000013102",
+        "name": "Kottbusser Tor",
+        "neighbors": [
+            {
+                "id": "900000013103",
+                "name": "Prinzenstraße"
+            },
+            {
+                "id": "900000014101",
+                "name": "Görlitzer Bahnhof"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000014101",
+        "name": "Görlitzer Bahnhof",
+        "neighbors": [
+            {
+                "id": "900000013102",
+                "name": "Kottbusser Tor"
+            },
+            {
+                "id": "900000014102",
+                "name": "Schlesisches Tor"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000014102",
+        "name": "Schlesisches Tor",
+        "neighbors": [
+            {
+                "id": "900000014101",
+                "name": "Görlitzer Bahnhof"
+            },
+            {
+                "id": "900000120004",
+                "name": "Warschauer Straße"
+            }
+        ]
+    },
+    {
+        "line": "U1",
+        "id": "900000120004",
+        "name": "Warschauer Straße",
+        "neighbors": [
+            {
+                "id": "900000014102",
+                "name": "Schlesisches Tor"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000025202",
+        "name": "Ruhleben",
+        "neighbors": [
+            {
+                "id": "900000025203",
+                "name": "Olympia-Stadion"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000025203",
+        "name": "Olympia-Stadion",
+        "neighbors": [
+            {
+                "id": "900000025202",
+                "name": "Ruhleben"
+            },
+            {
+                "id": "900000026101",
+                "name": "Neu-Westend"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000026101",
+        "name": "Neu-Westend",
+        "neighbors": [
+            {
+                "id": "900000025203",
+                "name": "Olympia-Stadion"
+            },
+            {
+                "id": "900000026201",
+                "name": "Theodor-Heuss-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000026201",
+        "name": "Theodor-Heuss-Platz",
+        "neighbors": [
+            {
+                "id": "900000026101",
+                "name": "Neu-Westend"
+            },
+            {
+                "id": "900000026202",
+                "name": "Kaiserdamm"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000026202",
+        "name": "Kaiserdamm",
+        "neighbors": [
+            {
+                "id": "900000026201",
+                "name": "Theodor-Heuss-Platz"
+            },
+            {
+                "id": "900000022101",
+                "name": "Sophie-Charlotte-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000022101",
+        "name": "Sophie-Charlotte-Platz",
+        "neighbors": [
+            {
+                "id": "900000026202",
+                "name": "Kaiserdamm"
+            },
+            {
+                "id": "900000024201",
+                "name": "Bismarckstraße"
+            },
+            {
+                "id": "900000022201",
+                "name": "Deutsche Oper"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000024201",
+        "name": "Bismarckstraße",
+        "neighbors": [
+            {
+                "id": "900000022101",
+                "name": "Sophie-Charlotte-Platz"
+            },
+            {
+                "id": "900000022201",
+                "name": "Deutsche Oper"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000022201",
+        "name": "Deutsche Oper",
+        "neighbors": [
+            {
+                "id": "900000024201",
+                "name": "Bismarckstraße"
+            },
+            {
+                "id": "900000023101",
+                "name": "Ernst-Reuter-Platz"
+            },
+            {
+                "id": "900000022101",
+                "name": "Sophie-Charlotte-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000023101",
+        "name": "Ernst-Reuter-Platz",
+        "neighbors": [
+            {
+                "id": "900000022201",
+                "name": "Deutsche Oper"
+            },
+            {
+                "id": "900000023201",
+                "name": "Zoologischer Garten"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000023201",
+        "name": "Zoologischer Garten",
+        "neighbors": [
+            {
+                "id": "900000023101",
+                "name": "Ernst-Reuter-Platz"
+            },
+            {
+                "id": "900000056101",
+                "name": "Wittenbergplatz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000056101",
+        "name": "Wittenbergplatz",
+        "neighbors": [
+            {
+                "id": "900000023201",
+                "name": "Zoologischer Garten"
+            },
+            {
+                "id": "900000056102",
+                "name": "Nollendorfplatz"
+            },
+            {
+                "id": "900000023202",
+                "name": "Augsburger Straße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000056102",
+        "name": "Nollendorfplatz",
+        "neighbors": [
+            {
+                "id": "900000056101",
+                "name": "Wittenbergplatz"
+            },
+            {
+                "id": "900000056104",
+                "name": "Bülowstraße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000056104",
+        "name": "Bülowstraße",
+        "neighbors": [
+            {
+                "id": "900000056102",
+                "name": "Nollendorfplatz"
+            },
+            {
+                "id": "900000017103",
+                "name": "Gleisdreieck"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000017103",
+        "name": "Gleisdreieck",
+        "neighbors": [
+            {
+                "id": "900000056104",
+                "name": "Bülowstraße"
+            },
+            {
+                "id": "900000005252",
+                "name": "Mendelssohn-Bartholdy-Park"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000005252",
+        "name": "Mendelssohn-Bartholdy-Park",
+        "neighbors": [
+            {
+                "id": "900000017103",
+                "name": "Gleisdreieck"
+            },
+            {
+                "id": "900000100720",
+                "name": "Potsdamer Platz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100720",
+        "name": "Potsdamer Platz",
+        "neighbors": [
+            {
+                "id": "900000005252",
+                "name": "Mendelssohn-Bartholdy-Park"
+            },
+            {
+                "id": "900000100010",
+                "name": "Mohrenstraße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100010",
+        "name": "Mohrenstraße",
+        "neighbors": [
+            {
+                "id": "900000100720",
+                "name": "Potsdamer Platz"
+            },
+            {
+                "id": "900000100701",
+                "name": "Stadtmitte"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100701",
+        "name": "Stadtmitte",
+        "neighbors": [
+            {
+                "id": "900000100010",
+                "name": "Mohrenstraße"
+            },
+            {
+                "id": "900000100012",
+                "name": "Hausvogteiplatz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100012",
+        "name": "Hausvogteiplatz",
+        "neighbors": [
+            {
+                "id": "900000100701",
+                "name": "Stadtmitte"
+            },
+            {
+                "id": "900000100013",
+                "name": "Spittelmarkt"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100013",
+        "name": "Spittelmarkt",
+        "neighbors": [
+            {
+                "id": "900000100012",
+                "name": "Hausvogteiplatz"
+            },
+            {
+                "id": "900000100014",
+                "name": "Märkisches Museum"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100014",
+        "name": "Märkisches Museum",
+        "neighbors": [
+            {
+                "id": "900000100013",
+                "name": "Spittelmarkt"
+            },
+            {
+                "id": "900000100015",
+                "name": "Klosterstraße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100015",
+        "name": "Klosterstraße",
+        "neighbors": [
+            {
+                "id": "900000100014",
+                "name": "Märkisches Museum"
+            },
+            {
+                "id": "900000100703",
+                "name": "Alexanderplatz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100703",
+        "name": "Alexanderplatz",
+        "neighbors": [
+            {
+                "id": "900000100015",
+                "name": "Klosterstraße"
+            },
+            {
+                "id": "900000100016",
+                "name": "Rosa-Luxemburg-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000100016",
+        "name": "Rosa-Luxemburg-Platz",
+        "neighbors": [
+            {
+                "id": "900000100703",
+                "name": "Alexanderplatz"
+            },
+            {
+                "id": "900000110005",
+                "name": "Senefelderplatz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000110005",
+        "name": "Senefelderplatz",
+        "neighbors": [
+            {
+                "id": "900000100016",
+                "name": "Rosa-Luxemburg-Platz"
+            },
+            {
+                "id": "900000110006",
+                "name": "Eberswalder Straße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000110006",
+        "name": "Eberswalder Straße",
+        "neighbors": [
+            {
+                "id": "900000110005",
+                "name": "Senefelderplatz"
+            },
+            {
+                "id": "900000110001",
+                "name": "Schönhauser Allee"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000110001",
+        "name": "Schönhauser Allee",
+        "neighbors": [
+            {
+                "id": "900000110006",
+                "name": "Eberswalder Straße"
+            },
+            {
+                "id": "900000130011",
+                "name": "Vinetastraße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000130011",
+        "name": "Vinetastraße",
+        "neighbors": [
+            {
+                "id": "900000110001",
+                "name": "Schönhauser Allee"
+            },
+            {
+                "id": "900000130002",
+                "name": "Pankow"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000130002",
+        "name": "Pankow",
+        "neighbors": [
+            {
+                "id": "900000130011",
+                "name": "Vinetastraße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000041101",
+        "name": "Fehrbelliner Platz",
+        "neighbors": [
+            {
+                "id": "900000043101",
+                "name": "Hohenzollernplatz"
+            },
+            {
+                "id": "900000045102",
+                "name": "Heidelberger Platz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000043101",
+        "name": "Hohenzollernplatz",
+        "neighbors": [
+            {
+                "id": "900000041101",
+                "name": "Fehrbelliner Platz"
+            },
+            {
+                "id": "900000042101",
+                "name": "Spichernstraße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000042101",
+        "name": "Spichernstraße",
+        "neighbors": [
+            {
+                "id": "900000043101",
+                "name": "Hohenzollernplatz"
+            },
+            {
+                "id": "900000023202",
+                "name": "Augsburger Straße"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000023202",
+        "name": "Augsburger Straße",
+        "neighbors": [
+            {
+                "id": "900000042101",
+                "name": "Spichernstraße"
+            },
+            {
+                "id": "900000056101",
+                "name": "Wittenbergplatz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000051202",
+        "name": "Breitenbachplatz",
+        "neighbors": [
+            {
+                "id": "900000045101",
+                "name": "Rüdesheimer Platz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000045101",
+        "name": "Rüdesheimer Platz",
+        "neighbors": [
+            {
+                "id": "900000051202",
+                "name": "Breitenbachplatz"
+            },
+            {
+                "id": "900000045102",
+                "name": "Heidelberger Platz"
+            }
+        ]
+    },
+    {
+        "line": "U2",
+        "id": "900000045102",
+        "name": "Heidelberger Platz",
+        "neighbors": [
+            {
+                "id": "900000045101",
+                "name": "Rüdesheimer Platz"
+            },
+            {
+                "id": "900000041101",
+                "name": "Fehrbelliner Platz"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000050201",
+        "name": "Krumme Lanke",
+        "neighbors": [
+            {
+                "id": "900000050282",
+                "name": "Onkel Toms Hütte"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000050282",
+        "name": "Onkel Toms Hütte",
+        "neighbors": [
+            {
+                "id": "900000050201",
+                "name": "Krumme Lanke"
+            },
+            {
+                "id": "900000051301",
+                "name": "Oskar-Helene-Heim"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000051301",
+        "name": "Oskar-Helene-Heim",
+        "neighbors": [
+            {
+                "id": "900000050282",
+                "name": "Onkel Toms Hütte"
+            },
+            {
+                "id": "900000051201",
+                "name": "Freie Universität (Thielplatz)"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000051201",
+        "name": "Freie Universität (Thielplatz)",
+        "neighbors": [
+            {
+                "id": "900000051301",
+                "name": "Oskar-Helene-Heim"
+            },
+            {
+                "id": "900000051303",
+                "name": "Dahlem-Dorf"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000051303",
+        "name": "Dahlem-Dorf",
+        "neighbors": [
+            {
+                "id": "900000051201",
+                "name": "Freie Universität (Thielplatz)"
+            },
+            {
+                "id": "900000051302",
+                "name": "Podbielskiallee"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000051302",
+        "name": "Podbielskiallee",
+        "neighbors": [
+            {
+                "id": "900000051303",
+                "name": "Dahlem-Dorf"
+            },
+            {
+                "id": "900000051202",
+                "name": "Breitenbachplatz"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000051202",
+        "name": "Breitenbachplatz",
+        "neighbors": [
+            {
+                "id": "900000051302",
+                "name": "Podbielskiallee"
+            },
+            {
+                "id": "900000045101",
+                "name": "Rüdesheimer Platz"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000045101",
+        "name": "Rüdesheimer Platz",
+        "neighbors": [
+            {
+                "id": "900000051202",
+                "name": "Breitenbachplatz"
+            },
+            {
+                "id": "900000045102",
+                "name": "Heidelberger Platz"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000045102",
+        "name": "Heidelberger Platz",
+        "neighbors": [
+            {
+                "id": "900000045101",
+                "name": "Rüdesheimer Platz"
+            },
+            {
+                "id": "900000041101",
+                "name": "Fehrbelliner Platz"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000041101",
+        "name": "Fehrbelliner Platz",
+        "neighbors": [
+            {
+                "id": "900000045102",
+                "name": "Heidelberger Platz"
+            },
+            {
+                "id": "900000043101",
+                "name": "Hohenzollernplatz"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000043101",
+        "name": "Hohenzollernplatz",
+        "neighbors": [
+            {
+                "id": "900000041101",
+                "name": "Fehrbelliner Platz"
+            },
+            {
+                "id": "900000042101",
+                "name": "Spichernstraße"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000042101",
+        "name": "Spichernstraße",
+        "neighbors": [
+            {
+                "id": "900000043101",
+                "name": "Hohenzollernplatz"
+            },
+            {
+                "id": "900000023202",
+                "name": "Augsburger Straße"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000023202",
+        "name": "Augsburger Straße",
+        "neighbors": [
+            {
+                "id": "900000042101",
+                "name": "Spichernstraße"
+            },
+            {
+                "id": "900000056101",
+                "name": "Wittenbergplatz"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000056101",
+        "name": "Wittenbergplatz",
+        "neighbors": [
+            {
+                "id": "900000023202",
+                "name": "Augsburger Straße"
+            },
+            {
+                "id": "900000056102",
+                "name": "Nollendorfplatz"
+            },
+            {
+                "id": "900000023201",
+                "name": "Zoologischer Garten"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000056102",
+        "name": "Nollendorfplatz",
+        "neighbors": [
+            {
+                "id": "900000056101",
+                "name": "Wittenbergplatz"
+            },
+            {
+                "id": "900000005201",
+                "name": "Kurfürstenstraße"
+            },
+            {
+                "id": "900000056104",
+                "name": "Bülowstraße"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000005201",
+        "name": "Kurfürstenstraße",
+        "neighbors": [
+            {
+                "id": "900000056102",
+                "name": "Nollendorfplatz"
+            },
+            {
+                "id": "900000017103",
+                "name": "Gleisdreieck"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000017103",
+        "name": "Gleisdreieck",
+        "neighbors": [
+            {
+                "id": "900000005201",
+                "name": "Kurfürstenstraße"
+            },
+            {
+                "id": "900000017104",
+                "name": "Möckernbrücke"
+            },
+            {
+                "id": "900000056104",
+                "name": "Bülowstraße"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000017104",
+        "name": "Möckernbrücke",
+        "neighbors": [
+            {
+                "id": "900000017103",
+                "name": "Gleisdreieck"
+            },
+            {
+                "id": "900000012103",
+                "name": "Hallesches Tor"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000012103",
+        "name": "Hallesches Tor",
+        "neighbors": [
+            {
+                "id": "900000017104",
+                "name": "Möckernbrücke"
+            },
+            {
+                "id": "900000013103",
+                "name": "Prinzenstraße"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000013103",
+        "name": "Prinzenstraße",
+        "neighbors": [
+            {
+                "id": "900000012103",
+                "name": "Hallesches Tor"
+            },
+            {
+                "id": "900000013102",
+                "name": "Kottbusser Tor"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000013102",
+        "name": "Kottbusser Tor",
+        "neighbors": [
+            {
+                "id": "900000013103",
+                "name": "Prinzenstraße"
+            },
+            {
+                "id": "900000014101",
+                "name": "Görlitzer Bahnhof"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000014101",
+        "name": "Görlitzer Bahnhof",
+        "neighbors": [
+            {
+                "id": "900000013102",
+                "name": "Kottbusser Tor"
+            },
+            {
+                "id": "900000014102",
+                "name": "Schlesisches Tor"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000014102",
+        "name": "Schlesisches Tor",
+        "neighbors": [
+            {
+                "id": "900000014101",
+                "name": "Görlitzer Bahnhof"
+            },
+            {
+                "id": "900000120004",
+                "name": "Warschauer Straße"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000120004",
+        "name": "Warschauer Straße",
+        "neighbors": [
+            {
+                "id": "900000014102",
+                "name": "Schlesisches Tor"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000023201",
+        "name": "Zoologischer Garten",
+        "neighbors": [
+            {
+                "id": "900000056101",
+                "name": "Wittenbergplatz"
+            }
+        ]
+    },
+    {
+        "line": "U3",
+        "id": "900000056104",
+        "name": "Bülowstraße",
+        "neighbors": [
+            {
+                "id": "900000056102",
+                "name": "Nollendorfplatz"
+            },
+            {
+                "id": "900000017103",
+                "name": "Gleisdreieck"
+            }
+        ]
+    },
+    {
+        "line": "U4",
+        "id": "900000054105",
+        "name": "Innsbrucker Platz",
+        "neighbors": [
+            {
+                "id": "900000054101",
+                "name": "Rathaus Schöneberg"
+            }
+        ]
+    },
+    {
+        "line": "U4",
+        "id": "900000054101",
+        "name": "Rathaus Schöneberg",
+        "neighbors": [
+            {
+                "id": "900000054105",
+                "name": "Innsbrucker Platz"
+            },
+            {
+                "id": "900000055102",
+                "name": "Bayerischer Platz"
+            }
+        ]
+    },
+    {
+        "line": "U4",
+        "id": "900000055102",
+        "name": "Bayerischer Platz",
+        "neighbors": [
+            {
+                "id": "900000054101",
+                "name": "Rathaus Schöneberg"
+            },
+            {
+                "id": "900000055101",
+                "name": "Viktoria-Luise-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U4",
+        "id": "900000055101",
+        "name": "Viktoria-Luise-Platz",
+        "neighbors": [
+            {
+                "id": "900000055102",
+                "name": "Bayerischer Platz"
+            },
+            {
+                "id": "900000056102",
+                "name": "Nollendorfplatz"
+            }
+        ]
+    },
+    {
+        "line": "U4",
+        "id": "900000056102",
+        "name": "Nollendorfplatz",
+        "neighbors": [
+            {
+                "id": "900000055101",
+                "name": "Viktoria-Luise-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000100704",
+        "name": "Alexanderplatz",
+        "neighbors": [
+            {
+                "id": "900000100017",
+                "name": "Schillingstraße"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000100017",
+        "name": "Schillingstraße",
+        "neighbors": [
+            {
+                "id": "900000100704",
+                "name": "Alexanderplatz"
+            },
+            {
+                "id": "900000120006",
+                "name": "Strausberger Platz"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000120006",
+        "name": "Strausberger Platz",
+        "neighbors": [
+            {
+                "id": "900000100017",
+                "name": "Schillingstraße"
+            },
+            {
+                "id": "900000120025",
+                "name": "Weberwiese"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000120025",
+        "name": "Weberwiese",
+        "neighbors": [
+            {
+                "id": "900000120006",
+                "name": "Strausberger Platz"
+            },
+            {
+                "id": "900000120008",
+                "name": "Frankfurter Tor"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000120008",
+        "name": "Frankfurter Tor",
+        "neighbors": [
+            {
+                "id": "900000120025",
+                "name": "Weberwiese"
+            },
+            {
+                "id": "900000120009",
+                "name": "Samariterstraße"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000120009",
+        "name": "Samariterstraße",
+        "neighbors": [
+            {
+                "id": "900000120008",
+                "name": "Frankfurter Tor"
+            },
+            {
+                "id": "900000120001",
+                "name": "Frankfurter Allee"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000120001",
+        "name": "Frankfurter Allee",
+        "neighbors": [
+            {
+                "id": "900000120009",
+                "name": "Samariterstraße"
+            },
+            {
+                "id": "900000160005",
+                "name": "Magdalenenstraße"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000160005",
+        "name": "Magdalenenstraße",
+        "neighbors": [
+            {
+                "id": "900000120001",
+                "name": "Frankfurter Allee"
+            },
+            {
+                "id": "900000160701",
+                "name": "Lichtenberg"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000160701",
+        "name": "Lichtenberg",
+        "neighbors": [
+            {
+                "id": "900000160005",
+                "name": "Magdalenenstraße"
+            },
+            {
+                "id": "900000161512",
+                "name": "Friedrichsfelde"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000161512",
+        "name": "Friedrichsfelde",
+        "neighbors": [
+            {
+                "id": "900000160701",
+                "name": "Lichtenberg"
+            },
+            {
+                "id": "900000161002",
+                "name": "Tierpark"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000161002",
+        "name": "Tierpark",
+        "neighbors": [
+            {
+                "id": "900000161512",
+                "name": "Friedrichsfelde"
+            },
+            {
+                "id": "900000171005",
+                "name": "Biesdorf-Süd"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000171005",
+        "name": "Biesdorf-Süd",
+        "neighbors": [
+            {
+                "id": "900000161002",
+                "name": "Tierpark"
+            },
+            {
+                "id": "900000171006",
+                "name": "Elsterwerdaer Platz"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000171006",
+        "name": "Elsterwerdaer Platz",
+        "neighbors": [
+            {
+                "id": "900000171005",
+                "name": "Biesdorf-Süd"
+            },
+            {
+                "id": "900000175001",
+                "name": "Wuhletal"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000175001",
+        "name": "Wuhletal",
+        "neighbors": [
+            {
+                "id": "900000171006",
+                "name": "Elsterwerdaer Platz"
+            },
+            {
+                "id": "900000175004",
+                "name": "Kaulsdorf-Nord"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000175004",
+        "name": "Kaulsdorf-Nord",
+        "neighbors": [
+            {
+                "id": "900000175001",
+                "name": "Wuhletal"
+            },
+            {
+                "id": "900000175005",
+                "name": "Kienberg (Gärten der Welt)"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000175005",
+        "name": "Kienberg (Gärten der Welt)",
+        "neighbors": [
+            {
+                "id": "900000175004",
+                "name": "Kaulsdorf-Nord"
+            },
+            {
+                "id": "900000175006",
+                "name": "Cottbusser Platz"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000175006",
+        "name": "Cottbusser Platz",
+        "neighbors": [
+            {
+                "id": "900000175005",
+                "name": "Kienberg (Gärten der Welt)"
+            },
+            {
+                "id": "900000175007",
+                "name": "Hellersdorf"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000175007",
+        "name": "Hellersdorf",
+        "neighbors": [
+            {
+                "id": "900000175006",
+                "name": "Cottbusser Platz"
+            },
+            {
+                "id": "900000175015",
+                "name": "Louis-Lewin-Straße"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000175015",
+        "name": "Louis-Lewin-Straße",
+        "neighbors": [
+            {
+                "id": "900000175007",
+                "name": "Hellersdorf"
+            },
+            {
+                "id": "900000175010",
+                "name": "Hönow"
+            }
+        ]
+    },
+    {
+        "line": "U5",
+        "id": "900000175010",
+        "name": "Hönow",
+        "neighbors": [
+            {
+                "id": "900000175015",
+                "name": "Louis-Lewin-Straße"
+            }
+        ]
+    },
+    {
+        "line": "U55",
+        "id": "900000003201",
+        "name": "Berlin Hauptbahnhof",
+        "neighbors": [
+            {
+                "id": "900000003254",
+                "name": "Bundestag"
+            }
+        ]
+    },
+    {
+        "line": "U55",
+        "id": "900000003254",
+        "name": "Bundestag",
+        "neighbors": [
+            {
+                "id": "900000003201",
+                "name": "Berlin Hauptbahnhof"
+            },
+            {
+                "id": "900000100025",
+                "name": "Brandenburger Tor"
+            }
+        ]
+    },
+    {
+        "line": "U55",
+        "id": "900000100025",
+        "name": "Brandenburger Tor",
+        "neighbors": [
+            {
+                "id": "900000003254",
+                "name": "Bundestag"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000070301",
+        "name": "Alt-Mariendorf",
+        "neighbors": [
+            {
+                "id": "900000070101",
+                "name": "Westphalweg"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000070101",
+        "name": "Westphalweg",
+        "neighbors": [
+            {
+                "id": "900000070301",
+                "name": "Alt-Mariendorf"
+            },
+            {
+                "id": "900000069271",
+                "name": "Ullsteinstraße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000069271",
+        "name": "Ullsteinstraße",
+        "neighbors": [
+            {
+                "id": "900000070101",
+                "name": "Westphalweg"
+            },
+            {
+                "id": "900000068302",
+                "name": "Kaiserin-Augusta-Straße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000068302",
+        "name": "Kaiserin-Augusta-Straße",
+        "neighbors": [
+            {
+                "id": "900000069271",
+                "name": "Ullsteinstraße"
+            },
+            {
+                "id": "900000068202",
+                "name": "Alt-Tempelhof"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000068202",
+        "name": "Alt-Tempelhof",
+        "neighbors": [
+            {
+                "id": "900000068302",
+                "name": "Kaiserin-Augusta-Straße"
+            },
+            {
+                "id": "900000068201",
+                "name": "Tempelhof"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000068201",
+        "name": "Tempelhof",
+        "neighbors": [
+            {
+                "id": "900000068202",
+                "name": "Alt-Tempelhof"
+            },
+            {
+                "id": "900000068101",
+                "name": "Paradestraße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000068101",
+        "name": "Paradestraße",
+        "neighbors": [
+            {
+                "id": "900000068201",
+                "name": "Tempelhof"
+            },
+            {
+                "id": "900000017102",
+                "name": "Platz der Luftbrücke"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000017102",
+        "name": "Platz der Luftbrücke",
+        "neighbors": [
+            {
+                "id": "900000068101",
+                "name": "Paradestraße"
+            },
+            {
+                "id": "900000017101",
+                "name": "Mehringdamm"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000017101",
+        "name": "Mehringdamm",
+        "neighbors": [
+            {
+                "id": "900000017102",
+                "name": "Platz der Luftbrücke"
+            },
+            {
+                "id": "900000012103",
+                "name": "Hallesches Tor"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000012103",
+        "name": "Hallesches Tor",
+        "neighbors": [
+            {
+                "id": "900000017101",
+                "name": "Mehringdamm"
+            },
+            {
+                "id": "900000012102",
+                "name": "Kochstr./Checkpoint Charlie"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000012102",
+        "name": "Kochstr./Checkpoint Charlie",
+        "neighbors": [
+            {
+                "id": "900000012103",
+                "name": "Hallesches Tor"
+            },
+            {
+                "id": "900000100011",
+                "name": "Stadtmitte"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000100011",
+        "name": "Stadtmitte",
+        "neighbors": [
+            {
+                "id": "900000012102",
+                "name": "Kochstr./Checkpoint Charlie"
+            },
+            {
+                "id": "900000100027",
+                "name": "Französische Straße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000100027",
+        "name": "Französische Straße",
+        "neighbors": [
+            {
+                "id": "900000100011",
+                "name": "Stadtmitte"
+            },
+            {
+                "id": "900000100001",
+                "name": "Friedrichstraße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000100001",
+        "name": "Friedrichstraße",
+        "neighbors": [
+            {
+                "id": "900000100027",
+                "name": "Französische Straße"
+            },
+            {
+                "id": "900000100019",
+                "name": "Oranienburger Tor"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000100019",
+        "name": "Oranienburger Tor",
+        "neighbors": [
+            {
+                "id": "900000100001",
+                "name": "Friedrichstraße"
+            },
+            {
+                "id": "900000100009",
+                "name": "Naturkundemuseum"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000100009",
+        "name": "Naturkundemuseum",
+        "neighbors": [
+            {
+                "id": "900000100019",
+                "name": "Oranienburger Tor"
+            },
+            {
+                "id": "900000100501",
+                "name": "Schwartzkopffstraße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000100501",
+        "name": "Schwartzkopffstraße",
+        "neighbors": [
+            {
+                "id": "900000100009",
+                "name": "Naturkundemuseum"
+            },
+            {
+                "id": "900000008102",
+                "name": "Reinickendorfer Straße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000008102",
+        "name": "Reinickendorfer Straße",
+        "neighbors": [
+            {
+                "id": "900000100501",
+                "name": "Schwartzkopffstraße"
+            },
+            {
+                "id": "900000009104",
+                "name": "Wedding"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000009104",
+        "name": "Wedding",
+        "neighbors": [
+            {
+                "id": "900000008102",
+                "name": "Reinickendorfer Straße"
+            },
+            {
+                "id": "900000009102",
+                "name": "Leopoldplatz"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000009102",
+        "name": "Leopoldplatz",
+        "neighbors": [
+            {
+                "id": "900000009104",
+                "name": "Wedding"
+            },
+            {
+                "id": "900000009103",
+                "name": "Seestraße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000009103",
+        "name": "Seestraße",
+        "neighbors": [
+            {
+                "id": "900000009102",
+                "name": "Leopoldplatz"
+            },
+            {
+                "id": "900000011101",
+                "name": "Rehberge"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000011101",
+        "name": "Rehberge",
+        "neighbors": [
+            {
+                "id": "900000009103",
+                "name": "Seestraße"
+            },
+            {
+                "id": "900000011102",
+                "name": "Afrikanische Straße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000011102",
+        "name": "Afrikanische Straße",
+        "neighbors": [
+            {
+                "id": "900000011101",
+                "name": "Rehberge"
+            },
+            {
+                "id": "900000086102",
+                "name": "Kurt-Schumacher-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000086102",
+        "name": "Kurt-Schumacher-Platz",
+        "neighbors": [
+            {
+                "id": "900000011102",
+                "name": "Afrikanische Straße"
+            },
+            {
+                "id": "900000087101",
+                "name": "Scharnweberstraße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000087101",
+        "name": "Scharnweberstraße",
+        "neighbors": [
+            {
+                "id": "900000086102",
+                "name": "Kurt-Schumacher-Platz"
+            },
+            {
+                "id": "900000086101",
+                "name": "Otisstraße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000086101",
+        "name": "Otisstraße",
+        "neighbors": [
+            {
+                "id": "900000087101",
+                "name": "Scharnweberstraße"
+            },
+            {
+                "id": "900000088201",
+                "name": "Holzhauser Straße"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000088201",
+        "name": "Holzhauser Straße",
+        "neighbors": [
+            {
+                "id": "900000086101",
+                "name": "Otisstraße"
+            },
+            {
+                "id": "900000088202",
+                "name": "Borsigwerke"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000088202",
+        "name": "Borsigwerke",
+        "neighbors": [
+            {
+                "id": "900000088201",
+                "name": "Holzhauser Straße"
+            },
+            {
+                "id": "900000089301",
+                "name": "Alt-Tegel"
+            }
+        ]
+    },
+    {
+        "line": "U6",
+        "id": "900000089301",
+        "name": "Alt-Tegel",
+        "neighbors": [
+            {
+                "id": "900000088202",
+                "name": "Borsigwerke"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000080402",
+        "name": "Britz-Süd",
+        "neighbors": [
+            {
+                "id": "900000080401",
+                "name": "Parchimer Allee"
+            },
+            {
+                "id": "900000082202",
+                "name": "Johannisthaler Chaussee"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000080401",
+        "name": "Parchimer Allee",
+        "neighbors": [
+            {
+                "id": "900000080402",
+                "name": "Britz-Süd"
+            },
+            {
+                "id": "900000080201",
+                "name": "Blaschkoallee"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000080201",
+        "name": "Blaschkoallee",
+        "neighbors": [
+            {
+                "id": "900000080401",
+                "name": "Parchimer Allee"
+            },
+            {
+                "id": "900000080202",
+                "name": "Grenzallee"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000080202",
+        "name": "Grenzallee",
+        "neighbors": [
+            {
+                "id": "900000080201",
+                "name": "Blaschkoallee"
+            },
+            {
+                "id": "900000078272",
+                "name": "Neukölln"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000078272",
+        "name": "Neukölln",
+        "neighbors": [
+            {
+                "id": "900000080202",
+                "name": "Grenzallee"
+            },
+            {
+                "id": "900000078103",
+                "name": "Karl-Marx-Straße"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000078103",
+        "name": "Karl-Marx-Straße",
+        "neighbors": [
+            {
+                "id": "900000078272",
+                "name": "Neukölln"
+            },
+            {
+                "id": "900000078102",
+                "name": "Rathaus Neukölln"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000078102",
+        "name": "Rathaus Neukölln",
+        "neighbors": [
+            {
+                "id": "900000078103",
+                "name": "Karl-Marx-Straße"
+            },
+            {
+                "id": "900000078101",
+                "name": "Hermannplatz"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000078101",
+        "name": "Hermannplatz",
+        "neighbors": [
+            {
+                "id": "900000078102",
+                "name": "Rathaus Neukölln"
+            },
+            {
+                "id": "900000016202",
+                "name": "Südstern"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000016202",
+        "name": "Südstern",
+        "neighbors": [
+            {
+                "id": "900000078101",
+                "name": "Hermannplatz"
+            },
+            {
+                "id": "900000016101",
+                "name": "Gneisenaustraße"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000016101",
+        "name": "Gneisenaustraße",
+        "neighbors": [
+            {
+                "id": "900000016202",
+                "name": "Südstern"
+            },
+            {
+                "id": "900000017101",
+                "name": "Mehringdamm"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000017101",
+        "name": "Mehringdamm",
+        "neighbors": [
+            {
+                "id": "900000016101",
+                "name": "Gneisenaustraße"
+            },
+            {
+                "id": "900000017104",
+                "name": "Möckernbrücke"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000017104",
+        "name": "Möckernbrücke",
+        "neighbors": [
+            {
+                "id": "900000017101",
+                "name": "Mehringdamm"
+            },
+            {
+                "id": "900000057103",
+                "name": "Yorckstraße"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000057103",
+        "name": "Yorckstraße",
+        "neighbors": [
+            {
+                "id": "900000017104",
+                "name": "Möckernbrücke"
+            },
+            {
+                "id": "900000054102",
+                "name": "Kleistpark"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000054102",
+        "name": "Kleistpark",
+        "neighbors": [
+            {
+                "id": "900000057103",
+                "name": "Yorckstraße"
+            },
+            {
+                "id": "900000054103",
+                "name": "Eisenacher Straße"
+            },
+            {
+                "id": "900000055102",
+                "name": "Bayerischer Platz"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000054103",
+        "name": "Eisenacher Straße",
+        "neighbors": [
+            {
+                "id": "900000054102",
+                "name": "Kleistpark"
+            },
+            {
+                "id": "900000055102",
+                "name": "Bayerischer Platz"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000055102",
+        "name": "Bayerischer Platz",
+        "neighbors": [
+            {
+                "id": "900000054103",
+                "name": "Eisenacher Straße"
+            },
+            {
+                "id": "900000044201",
+                "name": "Berliner Straße"
+            },
+            {
+                "id": "900000054102",
+                "name": "Kleistpark"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000044201",
+        "name": "Berliner Straße",
+        "neighbors": [
+            {
+                "id": "900000055102",
+                "name": "Bayerischer Platz"
+            },
+            {
+                "id": "900000041102",
+                "name": "Blissestraße"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000041102",
+        "name": "Blissestraße",
+        "neighbors": [
+            {
+                "id": "900000044201",
+                "name": "Berliner Straße"
+            },
+            {
+                "id": "900000041101",
+                "name": "Fehrbelliner Platz"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000041101",
+        "name": "Fehrbelliner Platz",
+        "neighbors": [
+            {
+                "id": "900000041102",
+                "name": "Blissestraße"
+            },
+            {
+                "id": "900000041201",
+                "name": "Konstanzer Straße"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000041201",
+        "name": "Konstanzer Straße",
+        "neighbors": [
+            {
+                "id": "900000041101",
+                "name": "Fehrbelliner Platz"
+            },
+            {
+                "id": "900000023302",
+                "name": "Adenauerplatz"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000023302",
+        "name": "Adenauerplatz",
+        "neighbors": [
+            {
+                "id": "900000041201",
+                "name": "Konstanzer Straße"
+            },
+            {
+                "id": "900000024202",
+                "name": "Wilmersdorfer Straße"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000024202",
+        "name": "Wilmersdorfer Straße",
+        "neighbors": [
+            {
+                "id": "900000023302",
+                "name": "Adenauerplatz"
+            },
+            {
+                "id": "900000024201",
+                "name": "Bismarckstraße"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000024201",
+        "name": "Bismarckstraße",
+        "neighbors": [
+            {
+                "id": "900000024202",
+                "name": "Wilmersdorfer Straße"
+            },
+            {
+                "id": "900000022202",
+                "name": "Richard-Wagner-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000022202",
+        "name": "Richard-Wagner-Platz",
+        "neighbors": [
+            {
+                "id": "900000024201",
+                "name": "Bismarckstraße"
+            },
+            {
+                "id": "900000019204",
+                "name": "Mierendorffplatz"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000019204",
+        "name": "Mierendorffplatz",
+        "neighbors": [
+            {
+                "id": "900000022202",
+                "name": "Richard-Wagner-Platz"
+            },
+            {
+                "id": "900000020201",
+                "name": "Jungfernheide"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000020201",
+        "name": "Jungfernheide",
+        "neighbors": [
+            {
+                "id": "900000019204",
+                "name": "Mierendorffplatz"
+            },
+            {
+                "id": "900000018101",
+                "name": "Jakob-Kaiser-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000018101",
+        "name": "Jakob-Kaiser-Platz",
+        "neighbors": [
+            {
+                "id": "900000020201",
+                "name": "Jungfernheide"
+            },
+            {
+                "id": "900000018102",
+                "name": "Halemweg"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000018102",
+        "name": "Halemweg",
+        "neighbors": [
+            {
+                "id": "900000018101",
+                "name": "Jakob-Kaiser-Platz"
+            },
+            {
+                "id": "900000035101",
+                "name": "Siemensdamm"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000035101",
+        "name": "Siemensdamm",
+        "neighbors": [
+            {
+                "id": "900000018102",
+                "name": "Halemweg"
+            },
+            {
+                "id": "900000036101",
+                "name": "Rohrdamm"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000036101",
+        "name": "Rohrdamm",
+        "neighbors": [
+            {
+                "id": "900000035101",
+                "name": "Siemensdamm"
+            },
+            {
+                "id": "900000034101",
+                "name": "Paulsternstraße"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000034101",
+        "name": "Paulsternstraße",
+        "neighbors": [
+            {
+                "id": "900000036101",
+                "name": "Rohrdamm"
+            },
+            {
+                "id": "900000034102",
+                "name": "Haselhorst"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000034102",
+        "name": "Haselhorst",
+        "neighbors": [
+            {
+                "id": "900000034101",
+                "name": "Paulsternstraße"
+            },
+            {
+                "id": "900000033101",
+                "name": "Zitadelle"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000033101",
+        "name": "Zitadelle",
+        "neighbors": [
+            {
+                "id": "900000034102",
+                "name": "Haselhorst"
+            },
+            {
+                "id": "900000029301",
+                "name": "Altstadt Spandau"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000029301",
+        "name": "Altstadt Spandau",
+        "neighbors": [
+            {
+                "id": "900000033101",
+                "name": "Zitadelle"
+            },
+            {
+                "id": "900000029302",
+                "name": "Rathaus Spandau"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000029302",
+        "name": "Rathaus Spandau",
+        "neighbors": [
+            {
+                "id": "900000029301",
+                "name": "Altstadt Spandau"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000083201",
+        "name": "Rudow",
+        "neighbors": [
+            {
+                "id": "900000083101",
+                "name": "Zwickauer Damm"
+            },
+            {
+                "id": "900000083102",
+                "name": "Wutzkyallee"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000083101",
+        "name": "Zwickauer Damm",
+        "neighbors": [
+            {
+                "id": "900000083201",
+                "name": "Rudow"
+            },
+            {
+                "id": "900000083102",
+                "name": "Wutzkyallee"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000083102",
+        "name": "Wutzkyallee",
+        "neighbors": [
+            {
+                "id": "900000083101",
+                "name": "Zwickauer Damm"
+            },
+            {
+                "id": "900000082201",
+                "name": "Lipschitzallee"
+            },
+            {
+                "id": "900000083201",
+                "name": "Rudow"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000082201",
+        "name": "Lipschitzallee",
+        "neighbors": [
+            {
+                "id": "900000083102",
+                "name": "Wutzkyallee"
+            },
+            {
+                "id": "900000082202",
+                "name": "Johannisthaler Chaussee"
+            }
+        ]
+    },
+    {
+        "line": "U7",
+        "id": "900000082202",
+        "name": "Johannisthaler Chaussee",
+        "neighbors": [
+            {
+                "id": "900000082201",
+                "name": "Lipschitzallee"
+            },
+            {
+                "id": "900000080402",
+                "name": "Britz-Süd"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000079221",
+        "name": "Hermannstraße",
+        "neighbors": [
+            {
+                "id": "900000079201",
+                "name": "Leinestraße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000079201",
+        "name": "Leinestraße",
+        "neighbors": [
+            {
+                "id": "900000079221",
+                "name": "Hermannstraße"
+            },
+            {
+                "id": "900000079202",
+                "name": "Boddinstraße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000079202",
+        "name": "Boddinstraße",
+        "neighbors": [
+            {
+                "id": "900000079201",
+                "name": "Leinestraße"
+            },
+            {
+                "id": "900000078101",
+                "name": "Hermannplatz"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000078101",
+        "name": "Hermannplatz",
+        "neighbors": [
+            {
+                "id": "900000079202",
+                "name": "Boddinstraße"
+            },
+            {
+                "id": "900000016201",
+                "name": "Schönleinstraße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000016201",
+        "name": "Schönleinstraße",
+        "neighbors": [
+            {
+                "id": "900000078101",
+                "name": "Hermannplatz"
+            },
+            {
+                "id": "900000013102",
+                "name": "Kottbusser Tor"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000013102",
+        "name": "Kottbusser Tor",
+        "neighbors": [
+            {
+                "id": "900000016201",
+                "name": "Schönleinstraße"
+            },
+            {
+                "id": "900000013101",
+                "name": "Moritzplatz"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000013101",
+        "name": "Moritzplatz",
+        "neighbors": [
+            {
+                "id": "900000013102",
+                "name": "Kottbusser Tor"
+            },
+            {
+                "id": "900000100008",
+                "name": "Heinrich-Heine-Straße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000100008",
+        "name": "Heinrich-Heine-Straße",
+        "neighbors": [
+            {
+                "id": "900000013101",
+                "name": "Moritzplatz"
+            },
+            {
+                "id": "900000100004",
+                "name": "Jannowitzbrücke"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000100004",
+        "name": "Jannowitzbrücke",
+        "neighbors": [
+            {
+                "id": "900000100008",
+                "name": "Heinrich-Heine-Straße"
+            },
+            {
+                "id": "900000100705",
+                "name": "Alexanderplatz"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000100705",
+        "name": "Alexanderplatz",
+        "neighbors": [
+            {
+                "id": "900000100004",
+                "name": "Jannowitzbrücke"
+            },
+            {
+                "id": "900000100051",
+                "name": "Weinmeisterstraße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000100051",
+        "name": "Weinmeisterstraße",
+        "neighbors": [
+            {
+                "id": "900000100705",
+                "name": "Alexanderplatz"
+            },
+            {
+                "id": "900000100023",
+                "name": "Rosenthaler Platz"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000100023",
+        "name": "Rosenthaler Platz",
+        "neighbors": [
+            {
+                "id": "900000100051",
+                "name": "Weinmeisterstraße"
+            },
+            {
+                "id": "900000007110",
+                "name": "Bernauer Straße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000007110",
+        "name": "Bernauer Straße",
+        "neighbors": [
+            {
+                "id": "900000100023",
+                "name": "Rosenthaler Platz"
+            },
+            {
+                "id": "900000007103",
+                "name": "Voltastraße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000007103",
+        "name": "Voltastraße",
+        "neighbors": [
+            {
+                "id": "900000007110",
+                "name": "Bernauer Straße"
+            },
+            {
+                "id": "900000007102",
+                "name": "Gesundbrunnen"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000007102",
+        "name": "Gesundbrunnen",
+        "neighbors": [
+            {
+                "id": "900000007103",
+                "name": "Voltastraße"
+            },
+            {
+                "id": "900000009203",
+                "name": "Pankstraße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000009203",
+        "name": "Pankstraße",
+        "neighbors": [
+            {
+                "id": "900000007102",
+                "name": "Gesundbrunnen"
+            },
+            {
+                "id": "900000009202",
+                "name": "Osloer Straße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000009202",
+        "name": "Osloer Straße",
+        "neighbors": [
+            {
+                "id": "900000009203",
+                "name": "Pankstraße"
+            },
+            {
+                "id": "900000085202",
+                "name": "Franz-Neumann-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000085202",
+        "name": "Franz-Neumann-Platz",
+        "neighbors": [
+            {
+                "id": "900000009202",
+                "name": "Osloer Straße"
+            },
+            {
+                "id": "900000085203",
+                "name": "Residenzstraße"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000085203",
+        "name": "Residenzstraße",
+        "neighbors": [
+            {
+                "id": "900000085202",
+                "name": "Franz-Neumann-Platz"
+            },
+            {
+                "id": "900000085104",
+                "name": "Paracelsus-Bad"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000085104",
+        "name": "Paracelsus-Bad",
+        "neighbors": [
+            {
+                "id": "900000085203",
+                "name": "Residenzstraße"
+            },
+            {
+                "id": "900000086160",
+                "name": "Lindauer Allee"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000086160",
+        "name": "Lindauer Allee",
+        "neighbors": [
+            {
+                "id": "900000085104",
+                "name": "Paracelsus-Bad"
+            },
+            {
+                "id": "900000096458",
+                "name": "Karl-Bonhoeffer-Nervenklinik"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000096458",
+        "name": "Karl-Bonhoeffer-Nervenklinik",
+        "neighbors": [
+            {
+                "id": "900000086160",
+                "name": "Lindauer Allee"
+            },
+            {
+                "id": "900000096410",
+                "name": "Rathaus Reinickendorf"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000096410",
+        "name": "Rathaus Reinickendorf",
+        "neighbors": [
+            {
+                "id": "900000096458",
+                "name": "Karl-Bonhoeffer-Nervenklinik"
+            },
+            {
+                "id": "900000096197",
+                "name": "Wittenau"
+            }
+        ]
+    },
+    {
+        "line": "U8",
+        "id": "900000096197",
+        "name": "Wittenau",
+        "neighbors": [
+            {
+                "id": "900000096410",
+                "name": "Rathaus Reinickendorf"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000062781",
+        "name": "Rathaus Steglitz",
+        "neighbors": [
+            {
+                "id": "900000062203",
+                "name": "Schloßstraße"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000062203",
+        "name": "Schloßstraße",
+        "neighbors": [
+            {
+                "id": "900000062781",
+                "name": "Rathaus Steglitz"
+            },
+            {
+                "id": "900000061101",
+                "name": "Walther-Schreiber-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000061101",
+        "name": "Walther-Schreiber-Platz",
+        "neighbors": [
+            {
+                "id": "900000062203",
+                "name": "Schloßstraße"
+            },
+            {
+                "id": "900000061102",
+                "name": "Friedrich-Wilhelm-Platz"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000061102",
+        "name": "Friedrich-Wilhelm-Platz",
+        "neighbors": [
+            {
+                "id": "900000061101",
+                "name": "Walther-Schreiber-Platz"
+            },
+            {
+                "id": "900000044202",
+                "name": "Bundesplatz"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000044202",
+        "name": "Bundesplatz",
+        "neighbors": [
+            {
+                "id": "900000061102",
+                "name": "Friedrich-Wilhelm-Platz"
+            },
+            {
+                "id": "900000044201",
+                "name": "Berliner Straße"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000044201",
+        "name": "Berliner Straße",
+        "neighbors": [
+            {
+                "id": "900000044202",
+                "name": "Bundesplatz"
+            },
+            {
+                "id": "900000043201",
+                "name": "Güntzelstraße"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000043201",
+        "name": "Güntzelstraße",
+        "neighbors": [
+            {
+                "id": "900000044201",
+                "name": "Berliner Straße"
+            },
+            {
+                "id": "900000042101",
+                "name": "Spichernstraße"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000042101",
+        "name": "Spichernstraße",
+        "neighbors": [
+            {
+                "id": "900000043201",
+                "name": "Güntzelstraße"
+            },
+            {
+                "id": "900000023203",
+                "name": "Kurfürstendamm"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000023203",
+        "name": "Kurfürstendamm",
+        "neighbors": [
+            {
+                "id": "900000042101",
+                "name": "Spichernstraße"
+            },
+            {
+                "id": "900000023201",
+                "name": "Zoologischer Garten"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000023201",
+        "name": "Zoologischer Garten",
+        "neighbors": [
+            {
+                "id": "900000023203",
+                "name": "Kurfürstendamm"
+            },
+            {
+                "id": "900000003101",
+                "name": "Hansaplatz"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000003101",
+        "name": "Hansaplatz",
+        "neighbors": [
+            {
+                "id": "900000023201",
+                "name": "Zoologischer Garten"
+            },
+            {
+                "id": "900000003104",
+                "name": "Turmstraße"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000003104",
+        "name": "Turmstraße",
+        "neighbors": [
+            {
+                "id": "900000003101",
+                "name": "Hansaplatz"
+            },
+            {
+                "id": "900000002201",
+                "name": "Birkenstraße"
+            },
+            {
+                "id": "900000001201",
+                "name": "Westhafen"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000002201",
+        "name": "Birkenstraße",
+        "neighbors": [
+            {
+                "id": "900000003104",
+                "name": "Turmstraße"
+            },
+            {
+                "id": "900000001201",
+                "name": "Westhafen"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000001201",
+        "name": "Westhafen",
+        "neighbors": [
+            {
+                "id": "900000002201",
+                "name": "Birkenstraße"
+            },
+            {
+                "id": "900000009101",
+                "name": "Amrumer Straße"
+            },
+            {
+                "id": "900000003104",
+                "name": "Turmstraße"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000009101",
+        "name": "Amrumer Straße",
+        "neighbors": [
+            {
+                "id": "900000001201",
+                "name": "Westhafen"
+            },
+            {
+                "id": "900000009102",
+                "name": "Leopoldplatz"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000009102",
+        "name": "Leopoldplatz",
+        "neighbors": [
+            {
+                "id": "900000009101",
+                "name": "Amrumer Straße"
+            },
+            {
+                "id": "900000009201",
+                "name": "Nauener Platz"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000009201",
+        "name": "Nauener Platz",
+        "neighbors": [
+            {
+                "id": "900000009102",
+                "name": "Leopoldplatz"
+            },
+            {
+                "id": "900000009202",
+                "name": "Osloer Straße"
+            }
+        ]
+    },
+    {
+        "line": "U9",
+        "id": "900000009202",
+        "name": "Osloer Straße",
+        "neighbors": [
+            {
+                "id": "900000009201",
+                "name": "Nauener Platz"
+            }
+        ]
+    }
+]
