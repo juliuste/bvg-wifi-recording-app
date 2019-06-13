@@ -36,7 +36,7 @@ class ViewController: UIViewController {
     private let directionPicker = UIPickerView()
     private let directionPickerDelegate = PickerViewDelegate()
 
-    private let wifiButton = createButton(title: Config.wifiButtonText, color: .blue, enabled: true)
+    private let wifiButton = createButton(title: Config.wifiButtonText, color: UIColor(red: 0x00 / 255, green: 0x33 / 255, blue: 0x99 / 255, alpha: 1), enabled: true)
     private let sendButton = createButton(title: Config.sendButtonText, color: .lightGray, enabled: false)
 
     override func viewDidLoad() {
