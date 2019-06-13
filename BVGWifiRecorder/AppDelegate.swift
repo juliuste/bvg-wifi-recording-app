@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BVGWifiRecorder
 //
-//  Created by Julius on 04.06.19.
+//  Created by Julius Tens on 04.06.19.
 //  Copyright © 2019 Julius Tens. All rights reserved.
 //
 

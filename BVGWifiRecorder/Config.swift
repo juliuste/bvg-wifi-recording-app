@@ -8,7 +8,7 @@
 
 struct ConfigStructure {
     let wifiSsidWhitelist: [String]? = ["BVG Wi-Fi"] // optional, set to nil to deactivate whitelisting
-    let endpoint = "https://bvg-wifi-recording.transport.rest/" // recordings will be POSTed to this URL
+    let endpoint = "https://bvg-wifi-recording.juliustens.eu/" // recordings will be POSTed to this URL
 
     // UI Text Configuration
     let wifiHeadingText = "WLAN"

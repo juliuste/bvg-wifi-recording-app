@@ -1,6 +1,6 @@
 # BVG WiFi recording app
 
-A tiny app that lets you map [BVG](https://www.bvg.de/) (Berlin's subway operator) subway WiFi BSSIDs to subway station IDs to contribute them to our [*open data collection (todo)*](#) which could then - in the future - be used in context-sensitive public transport apps.
+A tiny app that lets you map [BVG](https://www.bvg.de/) (Berlin's subway operator) subway WiFi BSSIDs to subway station IDs to contribute them to our [**open dataset**](https://bvg-wifi-recording.juliustens.eu/data.ndjson) which could then - in the future - be used in context-sensitive public transport apps.
 
 The app is only available via TestFlight (for now), let me know at [`mail@juliustens.eu`](mailto:mail@juliustens.eu) if you're interested in using it.
 
